@@ -1,0 +1,15 @@
+/**********************************************************
+// OOP345 Workshop 3: Containers
+// File: reflect.txt
+// Version: 1
+// Date October/4/2018
+// Student: Kazim Akhlaqi
+// Student_ID: 103638177
+// Student_Email: kakhlaqi@myseneca.ca
+// Section: OOP345 SEF
+// Description:
+***********************************************************/
+
+I have learned how to design and code a composition of objects, and parse a string object into components.
+
+I also learned how to read records from a file into a string object.

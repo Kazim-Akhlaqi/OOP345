@@ -1,0 +1,18 @@
+/**********************************************************
+// OOP345 Workshop 5: Lambda Expressions
+// File: reflect.txt
+// Version: 1
+// Date October/10/2018
+// Student: Kazim Akhlaqi
+// Student_ID: 103638177
+// Student_Email: kakhlaqi@myseneca.ca
+// Section: OOP345 SEF
+// Description: Workshop Reflection
+***********************************************************/
+After reading the workshop instruction, prior to start coding, I referred to course notes for guidance on how to approach the problem
+by learning from course note and examples that were like problem in workshop. Then when I got familiar with the concept and purpose 
+of the workshop, I started to code by following workshop instruction and referring to course notes and previous workshop to find out 
+the solution to each problem. I also had some help from internet by watching tutorial on how the c++ lambdas and enumeration works 
+and how to prohibit copying, moving and assigning values to an object by setting each method equal to delete keyword. 
+I also learnt how to use try and catch method in c++ by following the course example and referring to my course note 
+form web322 on using the try and catch method. 

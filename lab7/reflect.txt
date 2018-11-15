@@ -1,0 +1,14 @@
+/**********************************************************
+// OOP345 Workshop 7: STL Algorithms
+// File: reflect.txt
+// Version: 1
+// Date October/9/2018
+// Student: Kazim Akhlaqi
+// Student_ID: 103638177
+// Student_Email: kakhlaqi@myseneca.ca
+// Section: OOP345 SEF
+// Description:
+***********************************************************/
+From this workshop, I learned how to use some of numeric function from 
+STL’s numeric and algorithm library like sort, accumulate and sqrt to preform
+math operation on a data set.
