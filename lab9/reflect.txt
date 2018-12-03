@@ -1,0 +1,15 @@
+/**********************************************************
+// OOP345 Workshop 9: Multi-Threading
+// File: reflect.txt
+// Version: 1
+// Date November/22/2018
+// Student: Kazim Akhlaqi
+// Student_ID: 103638177
+// Student_Email: kakhlaqi@myseneca.ca
+// Section: OOP345 SEF
+// Description: The code for this file is provided by School
+***********************************************************/
+• process partitioned data on two or more threads
+• write a set of characters to a file in binary mode
+• read a set of characters from a file in binary mode
+• bind a function to its arguments

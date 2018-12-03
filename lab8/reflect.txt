@@ -1,0 +1,15 @@
+/**********************************************************
+// OOP345 Workshop 8: Smart Pointers
+// File: reflect.txt
+// Version: 1
+// Date October/16/2018
+// Student: Kazim Akhlaqi
+// Student_ID: 103638177
+// Student_Email: kakhlaqi@myseneca.ca
+// Section: OOP345 SEF
+// Description: 
+*********************************************************
+From this workshop I learned how to use raw and smart pointer to create
+a program component of quadratic complexity to move an object
+and how to handle exceptions in c++ programming. 
+
